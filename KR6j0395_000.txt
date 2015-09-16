@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂經瑜伽文殊師利菩薩法
+#+DATE: 2015-08-30 20:31:34.204857
+#+PROPERTY: JUAN 0
